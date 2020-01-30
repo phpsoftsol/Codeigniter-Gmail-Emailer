@@ -1,6 +1,6 @@
 # Codeigniter-Gmail-Emailer
 Codeigniter mini project to send emails by using third party SMTP like google
-#Full Stack Developer
+# Full Stack Developer
 Name: Jatinder Singh
 Website: https://www.phpsoftsolutions.in/
 Upwork Profile: https://www.upwork.com/fl/jatinders4
