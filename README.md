@@ -1,5 +1,9 @@
 # Codeigniter-Gmail-Emailer
 Codeigniter mini project to send emails by using third party SMTP like google
+#Full Stack Developer
+Name: Jatinder Singh
+Website: https://www.phpsoftsolutions.in/
+Upwork Profile: https://www.upwork.com/fl/jatinders4
 # Steps to use this
 1. Download or clone this repo to your LAMP/WAMP www directory
 2. Create Database and import schema that is placed in root directory.
